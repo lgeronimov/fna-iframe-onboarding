@@ -5,8 +5,7 @@ body {
     margin: 0;
 }
 
-.container-iframe,
-#fad-iframe {
+.container-iframe, #fad-fna-iframe {
     width: 100%;
     height: 100%;
 }
