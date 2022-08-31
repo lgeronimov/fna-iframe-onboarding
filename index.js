@@ -28,7 +28,7 @@ function initIframe() {
   // get iframe 
   const iframe = document.getElementById("fad-fna-iframe");
   // url 
-  const url = 'https://devfna.firmaautografa.com/'
+  const url = 'https://fna.firmaautografa.com/'
   // set src to iframe
   iframe.src = url;
   // show loader - optional
